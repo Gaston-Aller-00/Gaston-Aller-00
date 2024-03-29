@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gaston, a developer specialized in front end. I currently live in Argentina, Buenos Aires 🇦🇷.
+I'm Gaston, a full stack developer specializing in front-end. Currently, I live in Buenos Aires, Argentina 🇦🇷.
 
 - 🔭 I am currently working on personal projects
 - 📂 Main tech skills: JavaScript, TypeScript, React, Next.js, Node.js.
